@@ -1,0 +1,101 @@
+filename,expected,predicted,correct/wrong
+0.jpg,UP27AP7762,zsLL dV LZ dn,wrong
+1.jpg,WB50IP5989,WB 50 IP 5989,correct
+10.jpg,MH85R1068,MH 85 R 1068,correct
+11.jpg,NL62MH2421,NL 62 MH 2421,correct
+12.jpg,KL19YZ7486,KL 19 YZ 7486,correct
+13.jpg,PB54QQ9428,,wrong
+14.jpg,CG06N1417,CG 06 N 1417,correct
+15.jpg,TR00IO2184,oıu_ğ_,wrong
+16.jpg,LD55Q8147,LD 55 Q 8147,correct
+17.jpg,CH11S0956,CH 11 S 0956,correct
+18.jpg,GJ38V9919,GJ 38 V 9919,correct
+19.jpg,AR22HL4575,AR 22 HL 4575,correct
+2.jpg,BR51U6788,,wrong
+20.jpg,MH29G1695,,wrong
+21.jpg,DD86F5508,DD 86 F 5508,correct
+22.jpg,UK53VS3432,UK 53 VS 3432,correct
+23.jpg,CG01WF2678,CGOIWF 2678,wrong
+24.jpg,CG12L2501,,wrong
+25.jpg,MP51LE6037,МР 5l LE БОЗ7,wrong
+26.jpg,TS06JD9548,TS 06 JD 9548,correct
+27.jpg,TR13X3008,TR 13 X 3008,correct
+28.jpg,GA02C9023,GA 02 C 9023,correct
+29.jpg,HP20W7235,HP 20 W 7235,correct
+3.jpg,DN26H6104,DN 26 H 6104,correct
+30.jpg,UK31S0948,UK 31 S 0948,correct
+31.jpg,AS02OH0500,AS 02 OH 0500,correct
+32.jpg,OD94XC2902,OD 94 XC 2902,correct
+33.jpg,NL93X6418,NL 93 X 6418,correct
+34.jpg,JH90X3109,ЈН 90 Х 3109,wrong
+35.jpg,GJ39D0323,,wrong
+36.jpg,GJ01V0710,GJ 01 V 0710,correct
+37.jpg,AN05DW1342,AN 05 DW 1342,correct
+38.jpg,HR44IL4033,HR 44 IL 4033,correct
+39.jpg,UA10BC8433,,wrong
+4.jpg,UK53NI1299,UK 53 NI 1299,correct
+40.jpg,UA87W2531,,wrong
+41.jpg,KL25HE1470,ΚΕ 25 ΗΕ 1470,wrong
+42.jpg,HR94LQ2038,AR 94 LQ 2038,wrong
+43.jpg,JK90X4902,JK 90 X 4902,correct
+44.jpg,KL80D6652,KL 80 D 6652,correct
+45.jpg,MP94GY8131,MP 94 GY 8131,correct
+46.jpg,UA24JQ4570,IJA 24 JO 4570,wrong
+47.jpg,RJ81A8325,RJ 81 A 8325,correct
+48.jpg,UK50L2914,,wrong
+49.jpg,ML66VR2819,ML 66 VR 2819,correct
+5.jpg,MZ34W2258,MZ 34 W 2258,correct
+50.jpg,AP33R4008,AP33 R 4008,correct
+51.jpg,MN59X5741,MN 59 X 5741,correct
+52.jpg,AR99G2199,,wrong
+53.jpg,AN22NQ1383,ΑΝ 22 ΝΟ 1383,wrong
+54.jpg,GJ49KV2319,GS49 KV 2319_,wrong
+55.jpg,AP11G1610,,wrong
+56.jpg,CH60R4157,CH 60 R 4157,correct
+57.jpg,JH68I4704,јн БВ 4704,wrong
+58.jpg,HP00O9814,НР ОО О 9814,wrong
+59.jpg,UP53ZA4797,LIP-53 ZA479,wrong
+6.jpg,AS91LW7940,AS 91 LW 7940,correct
+60.jpg,HR35P9832,HR 35 P 9832,correct
+61.jpg,BR76O9716,,wrong
+62.jpg,CH54P5413,СН 54 Р 5413,wrong
+63.jpg,MH64X1976,мн 64 х 1976,wrong
+64.jpg,JK27E6485,JK 27 E 6485,correct
+65.jpg,ML62J2275,ML 62 J 2275,correct
+66.jpg,OD31G6955,OD 31 G 6955,correct
+67.jpg,WB59H8849,WB 59 H 8849,correct
+68.jpg,ML31VI1663,ML 31 VI 1663,correct
+69.jpg,OR12V0816,OR 12 V 0816,correct
+7.jpg,AR11Z6131,AR 11 z 6131,wrong
+70.jpg,UP17BU7232,Тр-лэ-ви,wrong
+71.jpg,KA97XN5110,A 97 XN,wrong
+72.jpg,JH07YM0684,оН 07 УМ 0684,wrong
+73.jpg,NL34A6869,NL 34 A,wrong
+74.jpg,WB84R3496,ИВ 84 R 349Б,wrong
+75.jpg,AS13UJ5207,-ms 13 UJ 5207,wrong
+76.jpg,LD19HM7497,,wrong
+77.jpg,MN48M2525,мн 48 м 2525,wrong
+78.jpg,JK07PB8233,ЈК 07 РВ В233,wrong
+79.jpg,DD17NQ6221,DD 17 NQ 6221,correct
+8.jpg,OR23FW1462,OR 23 FW 1462,correct
+80.jpg,DN84UE3123,DN 84 CIE 3123,wrong
+81.jpg,AR28P3018,28 P_gpy.,wrong
+82.jpg,HR56DS7574,HR 56 DS 7574,correct
+83.jpg,UA77JF9233,UA 77 JF 9233,correct
+84.jpg,WB56K6423,WB 56 K 6423,correct
+85.jpg,WB11Z5575,WB Il Z 5575,wrong
+86.jpg,HP83T8675,НР ВЗ Т ВБ75,wrong
+87.jpg,NL09TA1397,NL 09 ΤΑ 1397,wrong
+88.jpg,TN17U1399,TN 17 U 1399,correct
+89.jpg,UK25J8821,,wrong
+9.jpg,JH72I4466,,wrong
+90.jpg,DL27Q3607,DL 27 Q 3607,correct
+91.jpg,TS04EA7966,TS 04 EA 7966,correct
+92.jpg,MN12O0886,МН 12 О ОВВБ,wrong
+93.jpg,HP77E9225,НР 77 Е 9225,wrong
+94.jpg,AS38A3482,AS 38 A 3482,correct
+95.jpg,NL65LK5926,NL 65 LK 5926,correct
+96.jpg,CG75QD5461,CG 75 QD 5461,correct
+97.jpg,DN51R4418,DN 51 R 4418,correct
+98.jpg,BR75AD9142,BR 75 AD 9142,correct
+99.jpg,TN37VK9607,ΤΝ 37 νκ 9607,wrong
